@@ -1,1 +1,1 @@
-
+el proyecto demuestra cómo crear y manejar tokens SPL en Solana, cómo interactuar con un contrato inteligente y cómo preparar la base para extenderlo hacia un sistema más completo que incluya NFTs. Es un ejemplo sencillo pero funcional que te permite aprender la estructura básica de un proyecto en Solana Playground y tener un punto de partida para desarrollos más avanzados.
